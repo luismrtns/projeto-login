@@ -20,6 +20,10 @@
         float: right;
         width: 70%;
     }
+
+    div#formulario p{
+        font-size: 1.1em;
+    }
 }
 
 @media screen and (min-width: 992px) { /*media query para desktop e telas grandes*/
